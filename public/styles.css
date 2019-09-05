@@ -1,9 +1,15 @@
 #images{
-    display: block;
+    display: flex;
+    
 }
 #reservations{
-    display: block;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
 }
-#container{
-    margin-left: 100px
+
+#reviews{
+    display:flex;
+    margin-right: 500px;
+    margin-top: 50px;
 }
